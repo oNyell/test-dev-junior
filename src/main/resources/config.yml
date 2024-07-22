@@ -1,0 +1,6 @@
+windCharge:
+  explosionForce: 2.0
+  addParticles: true
+  projectileSpeed: 1.0
+  projectileParticle: SMOKE_NORMAL
+  max-particle: 20.0
