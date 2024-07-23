@@ -3,7 +3,6 @@ windCharge:
   addParticles: true
   projectileSpeed: 1.0
   projectileParticle: SMOKE_NORMAL
-  max-particle: 20.0
 home:
   cooldown: 60 # Tempo de cooldown em segundos
   teleport-particles: true # Exibir partículas ao teletransportar
