@@ -1,8 +1,15 @@
 name: test-dev-junior
-version: 1.0
 main: com.onyell.Main
+version: 1.0
 api-version: 1.21
 commands:
-  reload:
-    description: Recarrega a configuração do plugin
-    usage: /<command>
+  home:
+    description: Teleporta o jogador para sua home.
+  sethome:
+    description: Define a home do jogador.
+  reloadconfig:
+    description: Recarrega a configuração do plugin.
+  homelist:
+    description: Lista todos as homes.
+  homeremove:
+    description: Remove alguma home.

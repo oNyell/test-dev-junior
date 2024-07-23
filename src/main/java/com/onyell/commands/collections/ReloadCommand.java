@@ -1,4 +1,4 @@
-package com.onyell.commands;
+package com.onyell.commands.collections;
 
 import com.onyell.Main;
 import org.bukkit.command.Command;

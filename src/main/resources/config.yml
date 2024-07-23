@@ -4,3 +4,14 @@ windCharge:
   projectileSpeed: 1.0
   projectileParticle: SMOKE_NORMAL
   max-particle: 20.0
+home:
+  cooldown: 60 # Tempo de cooldown em segundos
+  teleport-particles: true # Exibir partículas ao teletransportar
+  particle-type: CIRCLE # CIRCLE, SPIRAL, etc.
+  particle-name: PORTAL
+  database:
+    host: "localhost"
+    port: 3306
+    database: "minecraft"
+    username: "root"
+    password: ""
